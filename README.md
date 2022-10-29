@@ -15,7 +15,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## ☕ Como utilizar
 Preencha os dados da receita ou despesa e clique em adicionar. <br>
 Troque o mês clicando nas setinhas ao lado do nome do mês e do ano. <br>
->Você pode acessar o projeto [clicando aqui](http://controle-de-financas-dienikwi.vercel.app/).
+>Você pode acessar o projeto [clicando aqui](https://controle-financas-react.vercel.app/).
 
 <br>
 <p align="left">
